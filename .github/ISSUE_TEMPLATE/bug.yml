@@ -1,8 +1,8 @@
 name: Bug Report
 description: Create a bug report to help improving our addons.
-title: 'Bug: <title>'
-labels: ['bug']
-assignees: 'BlenderDefender'
+title: "Bug: <title>"
+labels: ["bug"]
+assignees: "BlenderDefender"
 
 body:
   - type: markdown
@@ -81,7 +81,7 @@ body:
     attributes:
       label: "Addon Version"
       description: Which version of this addon are you experiencing issues with?
-      placeholder: "Example: Version 1.2.1"
+      placeholder: "Example: Version 1.2.2"
     validations:
       required: true
 
