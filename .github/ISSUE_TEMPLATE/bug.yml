@@ -66,15 +66,13 @@ body:
       description: Which Blender version are you using? (You may select more than one)
       multiple: true
       options:
-        - Blender 4.3 (latest)
+        - Blender 4.4 (latest)
+        - Blender 4.3
         - Blender 4.2 LTS
         - Blender 4.1
         - Blender 4.0
         - Blender 3.6 LTS
-        - Blender 3.5
-        - Blender 3.4
-        - Blender 3.3 LTS
-        - Blender 3.2 or lower (please specify under "Additional Information")
+        - Blender 3.5 or lower (please specify under "Additional Information")
       default: 0
     validations:
       required: true
