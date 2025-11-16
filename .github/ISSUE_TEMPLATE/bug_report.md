@@ -26,7 +26,7 @@ If applicable, add screenshots to help explain your problem.
 **System Information (please complete the following information):**
 
 - OS: [e.g. iOS]
-- Blender Version: [e.g. 4.0.2]
+- Blender Version: [e.g. 4.5.4]
 - Addon Version: [e.g. 1.2.2]
 
 **Additional context**
